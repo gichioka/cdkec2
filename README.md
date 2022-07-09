@@ -1,1 +1,1 @@
-AWSCDKでec2構築。
+AWSCDKでec2構築
